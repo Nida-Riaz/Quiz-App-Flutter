@@ -1,18 +1,5 @@
 # Quiz App by using flutter
+![n1](https://user-images.githubusercontent.com/92023504/140237372-6f17df27-a0dc-4559-bc4c-6186bdac046d.png)
+![n2](https://user-images.githubusercontent.com/92023504/140237394-9428347c-4f5b-4bb7-b36f-9ba89843cb00.png)
+![n3](https://user-images.githubusercontent.com/92023504/140237404-709ad330-476b-47ab-be95-ecdbc5238247.png)
 
-## [Watch it on YouTube](https://youtu.be/Nhy0VWAMsFU)
-
-**Packages we are using:**
-
-- websafe_svg: [link](https://pub.dev/packages/websafe_svg)
-- GetX: [link](https://pub.dev/packages/get)
-
-Our quiz app contains a total of three-screen, the welcome screen where a user submits their name than the main screen called the questions screen. Each question has 4 options once the user click on the option if the answer is correct then it turns green otherwise red. At the end score screen where you can check your score.
-
-This is a complete functional quiz app that works on both Android and iOS devices. For state management, we use the getX package.
-
-### Quiz App Final UI
-
-<!-- ![Preview](/gif.gif) -->
-
-![App UI](/ui.png)
